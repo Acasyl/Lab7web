@@ -6,7 +6,7 @@
 
   # Penjelesan Langkah Praktikum
 
-  1. buat PHP_DASAR mengunakan ("helo word")
+  1. buat PHP_DASAR mengunakan ("hello word")
      <br><br>
 
 
